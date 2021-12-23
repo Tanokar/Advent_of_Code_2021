@@ -31,3 +31,5 @@ for i in range(inputListSize):
 	if gropuB > groupA:
 		inc = inc + 1
 print(inc)
+
+#NamingConventionExcuse
