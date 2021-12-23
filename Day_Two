@@ -42,3 +42,5 @@ for nameforLoop in ITL:
 netDepth = netDown - netUp
 answer = netDepth * netForward
 print('Totals\n\n-Up = ' + str(netUp) + '\n-Down = ' + str(netDown) + '\n-Forward = ' + str(netForward) + '\n-Depth = ' + str(netDepth) + '\n\n-Answer = ' + str(answer))
+
+#NamingConventionExcuse
